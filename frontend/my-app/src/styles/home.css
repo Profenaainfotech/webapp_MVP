@@ -1,0 +1,26 @@
+.home-container {
+  width: 100%;
+  min-height: calc(100vh - 70px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+}
+
+.home-content {
+  max-width: 600px;
+  text-align: center;
+  padding: 20px;
+}
+
+.home-content h1 {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: #1c1d1f;
+}
+
+.home-content p {
+  font-size: 18px;
+  color: #6a6f73;
+}
